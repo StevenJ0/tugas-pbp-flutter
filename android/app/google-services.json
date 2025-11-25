@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207973705336",
+    "project_id": "foto-db-bafb0",
+    "storage_bucket": "foto-db-bafb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207973705336:android:95586453e850754c79ef8d",
+        "android_client_info": {
+          "package_name": "com.example.tugasmepet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30nG6ex9-uKCfqCJo6smJ3GtJpPqGENc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
